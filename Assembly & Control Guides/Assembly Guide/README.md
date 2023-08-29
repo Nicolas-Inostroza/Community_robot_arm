@@ -21,7 +21,8 @@
 <img src="18 - pleuel_bend_lower.jpg" alt= “Tamaño” width="500"/>
 <img src="19 - pleuel_lever.jpg" alt= “Tamaño” width="500"/>
 <img src="20 - upper_shank.jpg" alt= “Tamaño” width="500"/>
-<img src="21 - pleuel_lever.jpg" alt= “Tamaño” width="500"/>
+
+<img src="21 - pleuel_shank.jpg" alt= “Tamaño” width="500"/>
 <img src="22 - manipulator.jpg" alt= “Tamaño” width="500"/>
 <img src="22 - pleuel_bend_upper.jpg" alt= “Tamaño” width="500"/>
 <img src="23 - gripper.jpg" alt= “Tamaño” width="500"/>
