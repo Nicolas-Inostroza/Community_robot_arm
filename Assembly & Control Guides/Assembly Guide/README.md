@@ -1,30 +1,28 @@
 # Assembly guide
 
 <img src="01 - basering.jpg" alt= “Tamaño” width="500"/>
-
-!["Tamaño"](<01 - basering.jpg>)
-![2](<02 - socket.jpg> =500x)
-![3](<03 - base.jpg> =500x)
-![4](<04 - rotategear.jpg> =500x)
-![5](<05 - rotate_base.jpg> =500x)
-![6](<06 - body_base.jpg> =500x)
-![7](<07 - steppers.jpg> =500x)
-![8](<08 - upper_motor.jpg> =500x)
-![9](<09 - lower_motor.jpg> =500x)
-![10](<10 - endstop.jpg> =500x)
-![11](<11 - lever.jpg> =500x)
-![12](<12 - lowershank.jpg> =500x)
-![13](<13 - lever_belt.jpg> =500x)
-![14](<14 - lowershank_belt.jpg> =500x)
-![15](<15 - stabilizer.jpg> =500x)
-![16](<16 - endstop_body.jpg> =500x)
-![17](<16 - triplate.jpg> =500x)
-![18](<17 - pleuel.jpg> =500x)
-![19](<18 - pleuel_bend_lower.jpg> =500x)
-![20](<19 - pleuel_lever.jpg> =500x)
-![21](<20 - upper_shank.jpg> =500x)
-![22](<21 - pleuel_lever.jpg> =500x)
-![23](<22 - manipulator.jpg> =500x)
-![24](<22 - pleuel_bend_upper.jpg> =500x)
-![25](<23 - gripper.jpg> =500x)
-![26](<Assembly - Dual Support Guide.jpg> =500x)
+<img src="02 - socket.jpg" alt= “Tamaño” width="500"/>
+<img src="03 - base.jpg" alt= “Tamaño” width="500"/>
+<img src="04 - rotategear.jpg" alt= “Tamaño” width="500"/>
+<img src="05 - rotate_base.jpg" alt= “Tamaño” width="500"/>
+<img src="06 - body_base.jpg" alt= “Tamaño” width="500"/>
+<img src="07 - steppers.jpg" alt= “Tamaño” width="500"/>
+<img src="08 - upper_motor.jpg" alt= “Tamaño” width="500"/>
+<img src="09 - lower_motor.jpg" alt= “Tamaño” width="500"/>
+<img src="10 - endstop.jpg" alt= “Tamaño” width="500"/>
+<img src="11 - lever.jpg" alt= “Tamaño” width="500"/>
+<img src="12 - lowershank.jpg" alt= “Tamaño” width="500"/>
+<img src="13 - lever_belt.jpg" alt= “Tamaño” width="500"/>
+<img src="14 - lowershank_belt.jpg" alt= “Tamaño” width="500"/>
+<img src="15 - stabilizer.jpg" alt= “Tamaño” width="500"/>
+<img src="16 - endstop_body.jpg" alt= “Tamaño” width="500"/>
+<img src="16 - triplate.jpg" alt= “Tamaño” width="500"/>
+<img src="17 - pleuel.jpg" alt= “Tamaño” width="500"/>
+<img src="18 - pleuel_bend_lower.jpg" alt= “Tamaño” width="500"/>
+<img src="19 - pleuel_lever.jpg" alt= “Tamaño” width="500"/>
+<img src="20 - upper_shank.jpg" alt= “Tamaño” width="500"/>
+<img src="21 - pleuel_lever.jpg" alt= “Tamaño” width="500"/>
+<img src="22 - manipulator.jpg" alt= “Tamaño” width="500"/>
+<img src="22 - pleuel_bend_upper.jpg" alt= “Tamaño” width="500"/>
+<img src="23 - gripper.jpg" alt= “Tamaño” width="500"/>
+<img src="Assembly - Dual Support Guide.jpg" alt= “Tamaño” width="500"/>
