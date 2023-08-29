@@ -14,7 +14,8 @@
 <img src="12 - lowershank.jpg" alt= “Tamaño” width="500"/>
 <img src="13 - lever_belt.jpg" alt= “Tamaño” width="500"/>
 <img src="14 - lowershank_belt.jpg" alt= “Tamaño” width="500"/>
-<img src="15 - stabilizer.jpg" alt= “Tamaño” width="500"/>
+
+<img src="15 - stabilizer.png" alt= “Tamaño” width="500"/>
 <img src="16 - endstop_body.jpg" alt= “Tamaño” width="500"/>
 <img src="16 - triplate.jpg" alt= “Tamaño” width="500"/>
 <img src="17 - pleuel.jpg" alt= “Tamaño” width="500"/>
