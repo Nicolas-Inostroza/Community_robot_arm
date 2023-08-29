@@ -1,6 +1,6 @@
 # Assembly guide
 
-![1](<01-basering.jpg>)
+![1](01-basering.jpg)
 ![2](<02 - socket.jpg>)
 ![3](<03 - base.jpg>)
 ![4](<04 - rotategear.jpg>)
