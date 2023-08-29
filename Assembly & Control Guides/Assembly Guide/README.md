@@ -1,6 +1,8 @@
 # Assembly guide
 
-![1](<01 - basering.jpg> =500x)
+<img src="01 - basering.jpg" alt= “Tamaño” width="500"/>
+
+![1](<01 - basering.jpg> width=500x)
 ![2](<02 - socket.jpg> =500x)
 ![3](<03 - base.jpg> =500x)
 ![4](<04 - rotategear.jpg> =500x)
